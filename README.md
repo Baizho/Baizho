@@ -8,7 +8,7 @@ Welcome to my GitHub Profile! I'm a curiosity-driven CS & EE student @ KAIST | A
 - Coding small projects to apply what I’m learning about **FastAPI**.  
 - Building more small projects to practice **Docker**.  
 - Experimenting with ML algorithms and data visualization to sharpen my skills (practice makes perfect).  
-- Exploring how to connect trained ML models to client-side functionality.
+- Connecting trained ML models to client-side applications
 ---
 
 ## 💡 Skills & Interests
