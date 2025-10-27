@@ -15,7 +15,7 @@ Welcome to my GitHub Profile! I'm a curiosity-driven CS & EE student @ KAIST | A
 ## 💡 Skills & Interests
 **Programming:** Python, C++, Java, JavaScript, TypeScript  
 **Web Dev:** Next.js, React, Node.js, Express.js, Tailwind CSS, REST APIs  
-**Databases & Cloud:** MongoDB, PostgreSQL, AWS, Prisma  
+**Databases & Cloud:** MongoDB, PostgreSQL, AWS, Prisma, Docker 
 **AI & Data Science:** PyTorch, scikit-learn, NumPy, Pandas  
 **Interests:** AI systems, algorithms, optimizations, hardware/software integration, chess, fitness  
 
