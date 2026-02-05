@@ -5,8 +5,9 @@ Welcome to my GitHub Profile! I'm a CS student @ KAIST | Interested in AI/ML | C
 
 🌱 I’m currently learning new programming languages and frameworks so I will mostly be working on small projects focused on practicing what I am learning.
 
-## 🔭 Currently Working On
-- Reinforcement Learning 
+## 🔭 Currently Working/Studying
+- Reinforcement Learning
+- C++ Multithreading/Concurrency/Parallelism
 ---
 
 ## 💡 Skills & Interests
