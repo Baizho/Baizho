@@ -1,8 +1,6 @@
 # Hi, I'm Nurmyrza 👋  
 Welcome to my GitHub Profile! I'm a CS student @ KAIST | Interested in AI/ML | Competitive Programming Medalist 🥇
 
-⚠️ Note: My account may have some cobwebs 😅 — cleaning out old high school junk repos and organizing them better, adding structure and documentation so they don’t look cluttered.
-
 🌱 I’m currently learning new programming languages and frameworks so I will mostly be working on small projects focused on practicing what I am learning.
 
 ## 🔭 Currently Working/Studying
