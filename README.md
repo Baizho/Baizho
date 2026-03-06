@@ -6,6 +6,9 @@ Welcome to my GitHub Profile! I'm a CS student @ KAIST | Interested in AI/ML | C
 ## 🔭 Currently Working/Studying
 - Reinforcement Learning
 - C++ Multithreading/Concurrency/Parallelism
+- Encryption/Decryption
+- Information/Computer Security
+- Software Testing
 ---
 
 ## 💡 Skills & Interests
