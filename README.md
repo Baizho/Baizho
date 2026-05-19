@@ -1,22 +1,23 @@
 # Hi, I'm Nurmyrza 👋  
-Welcome to my GitHub Profile! I'm a CS student @ KAIST | Interested in AI/ML | Competitive Programming Medalist 🥇
+Welcome to my GitHub Profile! I'm a CS student @ KAIST | Competitive Programming Medalist 
 
-🌱 I’m currently learning new programming languages and frameworks so I will mostly be working on small projects focused on practicing what I am learning.
+I'm interested in AI systems, algorithms, and building practical software.
+I enjoy working on projects involving:
+- AI agents & LLM systems
+- full-stack engineering
+- optimization problems
+- competitive programming
+- ML infrastructure
+- hardware/software integration
 
-## 🔭 Currently Working/Studying
-- Reinforcement Learning
-- C++ Multithreading/Concurrency/Parallelism
-- Encryption/Decryption
-- Information/Computer Security
-- Software Testing
----
+🌱 I’m currently learning new programming languages and frameworks so I will mostly be working on projects focused on practicing what I am learning. Check out my recent repositories!
 
-## 💡 Skills & Interests
+## 💡 Tech Stack
 **Programming:** Python, C++, Java, JavaScript, TypeScript  
 **Web Dev:** Next.js, React, Node.js, Express.js, Tailwind CSS, REST APIs  
 **Databases & Cloud:** MongoDB, PostgreSQL, AWS, Prisma, Docker 
 **AI & Data Science:** PyTorch, scikit-learn, NumPy, Pandas  
-**Interests:** AI systems, algorithms, optimizations, hardware/software integration, chess, fitness  
+**Hobbies:** playing chess, going to gym  
 
 ---
 
@@ -27,6 +28,4 @@ Welcome to my GitHub Profile! I'm a CS student @ KAIST | Interested in AI/ML | C
 
 ---
 
-> "Optimizations are everywhere in life — my passion is finding them."
->
-> Last updated: 10/7/2025
+> Last updated: 19/05/2026
