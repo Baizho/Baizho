@@ -23,7 +23,7 @@ I'm super passionate about using technology, problem solving, and creativity to 
   <br />
   <p>
     <a href="https://codeforces.com/profile/baizhorz">
-      <img align="center" width="50" src="icons8-codeforces-24.png"/>
+      <img align="center" width="200" src="Codeforces_logo.svg"/>
     </a>
     <a href="https://github.com/Baizho/OlympathAI">
       <img
