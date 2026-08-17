@@ -9,7 +9,7 @@
 
 Welcome to my Github Profile! I'm a **Computer Science** student pursuing my interests in systems, security, and AI at **KAIST.** I'm seeking **2026/2027 New Internship/Research Opportunities**, feel free to reach out on LinkedIn.
 
-I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. Currently, I'm interested in low-level infrastructure, AI/ML systems, security, optimization problems, concurrent/parallel programming, and distributed systems.
+I'm super passionate about using technology, problem solving, and creativity to build products that have an impact on the world. 
 
 🌱 I’m currently learning new programming languages and frameworks so I will mostly be working on projects focused on practicing what I am learning. Check out my recent repositories!
 
